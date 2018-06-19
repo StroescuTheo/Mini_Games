@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{63FD6A8D-81CC-4A21-AA30-B6778E90A778}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Jocuri</RootNamespace>
+    <AssemblyName>Jocuri</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DouaCulori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DouaCulori.designer.cs">
+      <DependentUpon>DouaCulori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tantari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tantari.designer.cs">
+      <DependentUpon>Tantari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlusMinus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlusMinus.designer.cs">
+      <DependentUpon>PlusMinus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mere.designer.cs">
+      <DependentUpon>Mere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Regine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Regine.designer.cs">
+      <DependentUpon>Regine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global Variable.cs" />
+    <Compile Include="Robot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Robot.designer.cs">
+      <DependentUpon>Robot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screen.Designer.cs">
+      <DependentUpon>Screen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DouaCulori.resx">
+      <DependentUpon>DouaCulori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tantari.resx">
+      <DependentUpon>Tantari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlusMinus.resx">
+      <DependentUpon>PlusMinus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mere.resx">
+      <DependentUpon>Mere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Regine.resx">
+      <DependentUpon>Regine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Robot.resx">
+      <DependentUpon>Robot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screen.resx">
+      <DependentUpon>Screen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WinXp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Robot\robot1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Robot\robot2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Robot\robot3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Robot\robot4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Screen\mosquito.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Screen\plus si minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Screen\apples.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Screen\2colors.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Screen\Queen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Screen\robot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Screen\url.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,89 @@
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\bin\Debug\Jocuri.exe
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\bin\Debug\Jocuri.pdb
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Screen.resources
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Properties.Resources.resources
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.exe
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.pdb
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Robot.resources
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.DouaCulori.resources
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Regine.resources
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Mere.resources
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.PlusMinus.resources
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\bin\Debug\Jocuri.exe
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\bin\Debug\Jocuri.pdb
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.DouaCulori.resources
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.PlusMinus.resources
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Mere.resources
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Regine.resources
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Robot.resources
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Screen.resources
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Properties.Resources.resources
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.exe
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.pdb
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Tantari.resources
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Tantari.resources
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1 - Copy\Jocuri\Jocuri\obj\x86\Debug\Jocuri.exe
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1 - Copy\Jocuri\Jocuri\obj\x86\Debug\Jocuri.pdb
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1 - Copy\Jocuri\Jocuri\bin\Debug\Jocuri.exe
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1 - Copy\Jocuri\Jocuri\bin\Debug\Jocuri.pdb
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1 - Copy\Jocuri\Jocuri\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1 - Copy\Jocuri\Jocuri\obj\x86\Debug\Jocuri.DouaCulori.resources
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1 - Copy\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Tantari.resources
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1 - Copy\Jocuri\Jocuri\obj\x86\Debug\Jocuri.PlusMinus.resources
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1 - Copy\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Mere.resources
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1 - Copy\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Regine.resources
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1 - Copy\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Robot.resources
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1 - Copy\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Screen.resources
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1 - Copy\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Properties.Resources.resources
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1 - Copy\Jocuri\Jocuri\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\++Programming Languages++\c#\Home\Jocuri\JocuriV1 - Copy\Jocuri\Jocuri\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\One\++Programming Languages++\c#\JocuriV1 Final\Jocuri\Jocuri\obj\x86\Debug\Jocuri.exe
+J:\One\++Programming Languages++\c#\JocuriV1 Final\Jocuri\Jocuri\obj\x86\Debug\Jocuri.pdb
+J:\One\++Programming Languages++\c#\JocuriV1 Final\Jocuri\Jocuri\bin\Debug\Jocuri.exe
+J:\One\++Programming Languages++\c#\JocuriV1 Final\Jocuri\Jocuri\bin\Debug\Jocuri.pdb
+J:\One\++Programming Languages++\c#\JocuriV1 Final\Jocuri\Jocuri\obj\x86\Debug\Jocuri.csprojResolveAssemblyReference.cache
+J:\One\++Programming Languages++\c#\JocuriV1 Final\Jocuri\Jocuri\obj\x86\Debug\Jocuri.DouaCulori.resources
+J:\One\++Programming Languages++\c#\JocuriV1 Final\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Tantari.resources
+J:\One\++Programming Languages++\c#\JocuriV1 Final\Jocuri\Jocuri\obj\x86\Debug\Jocuri.PlusMinus.resources
+J:\One\++Programming Languages++\c#\JocuriV1 Final\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Mere.resources
+J:\One\++Programming Languages++\c#\JocuriV1 Final\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Regine.resources
+J:\One\++Programming Languages++\c#\JocuriV1 Final\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Robot.resources
+J:\One\++Programming Languages++\c#\JocuriV1 Final\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Screen.resources
+J:\One\++Programming Languages++\c#\JocuriV1 Final\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Properties.Resources.resources
+J:\One\++Programming Languages++\c#\JocuriV1 Final\Jocuri\Jocuri\obj\x86\Debug\Jocuri.csproj.GenerateResource.Cache
+J:\One\++Programming Languages++\c#\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.exe
+J:\One\++Programming Languages++\c#\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.pdb
+D:\Contents\#Facultate\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.exe
+D:\Contents\#Facultate\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.pdb
+D:\Contents\#Facultate\JocuriV1 Final_2\Jocuri\Jocuri\bin\Debug\Jocuri.exe
+D:\Contents\#Facultate\JocuriV1 Final_2\Jocuri\Jocuri\bin\Debug\Jocuri.pdb
+D:\Contents\#Facultate\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.csprojResolveAssemblyReference.cache
+D:\Contents\#Facultate\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.DouaCulori.resources
+D:\Contents\#Facultate\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Tantari.resources
+D:\Contents\#Facultate\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.PlusMinus.resources
+D:\Contents\#Facultate\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Mere.resources
+D:\Contents\#Facultate\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Regine.resources
+D:\Contents\#Facultate\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Robot.resources
+D:\Contents\#Facultate\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Screen.resources
+D:\Contents\#Facultate\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Properties.Resources.resources
+D:\Contents\#Facultate\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.csproj.GenerateResource.Cache
+D:\#Facultate\c#\JocuriV1 Final_2\Jocuri\Jocuri\bin\Debug\Jocuri.exe
+D:\#Facultate\c#\JocuriV1 Final_2\Jocuri\Jocuri\bin\Debug\Jocuri.pdb
+D:\#Facultate\c#\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.csprojResolveAssemblyReference.cache
+D:\#Facultate\c#\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.DouaCulori.resources
+D:\#Facultate\c#\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Tantari.resources
+D:\#Facultate\c#\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.PlusMinus.resources
+D:\#Facultate\c#\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Mere.resources
+D:\#Facultate\c#\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Regine.resources
+D:\#Facultate\c#\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Robot.resources
+D:\#Facultate\c#\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Screen.resources
+D:\#Facultate\c#\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.Properties.Resources.resources
+D:\#Facultate\c#\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.csproj.GenerateResource.Cache
+D:\#Facultate\c#\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.exe
+D:\#Facultate\c#\JocuriV1 Final_2\Jocuri\Jocuri\obj\x86\Debug\Jocuri.pdb

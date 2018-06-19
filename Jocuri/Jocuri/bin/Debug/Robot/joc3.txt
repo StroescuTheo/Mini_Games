@@ -1,0 +1,25 @@
+116
+xxxxxxxxxxxxxxxxxxxx
+xR x               x
+x  x   u      P    x
+x  x               x
+x xx     x xxxxxxxxx
+x xxxxxxxx xxP     I
+x       xx xxxx xxxx
+xxxxxxx    xxx    xx
+xxx   xxxxdxxx xx xx
+xxx x      xxx x  xx
+x   xx x   xxx x x x
+xuxx d xxxxxxx x x x
+xxxx xxxxxxxx      x
+x Px           x x x
+x    xxxxxxxxx x x x
+x xx xxxxPxxxxxx xxx
+x x        xxx     x
+x xxx              x
+x   x              x
+xxxxxxxxxxxxxxxxxxxx
+8
+10
+11
+5

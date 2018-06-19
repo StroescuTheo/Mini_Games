@@ -1,0 +1,15 @@
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Release\ResolveAssemblyReference.cache
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Release\Jocuri.Screen.resources
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Release\Jocuri.Properties.Resources.resources
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Release\GenerateResource.read.1.tlog
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Release\GenerateResource.write.1.tlog
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\bin\Release\Jocuri.exe
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\bin\Release\Jocuri.pdb
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Release\Jocuri.exe
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Release\Jocuri.pdb
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Release\Jocuri.Robot.resources
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Release\Jocuri.DouaCulori.resources
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Release\Jocuri.Regine.resources
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Release\Jocuri.Mere.resources
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Release\Jocuri.PlusMinus.resources
+F:\++Programming Languages++\c#\Home\Jocuri\JocuriV1\Jocuri\Jocuri\obj\x86\Release\Jocuri.Tantari.resources

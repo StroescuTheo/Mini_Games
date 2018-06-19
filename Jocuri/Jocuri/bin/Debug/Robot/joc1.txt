@@ -1,0 +1,11 @@
+20
+xxxxxxxxxx
+xx P     I
+x x    xxx
+x  x     x
+x     Rxxx
+x        x
+x    xx  x
+x    Px  x
+x    xx  x
+xxxxxxxxxx
